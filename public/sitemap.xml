@@ -2,39 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-01T15:44:25+01:00</lastmod>
+    <loc>http://davelongman.com/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/projects/housing/</loc>
-    <lastmod>2025-09-01T15:44:25+01:00</lastmod>
+    <loc>http://davelongman.com/projects/housing/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-09-01T15:43:24+01:00</lastmod>
+    <loc>http://davelongman.com/projects/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/estimates/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <loc>http://davelongman.com/tags/estimates/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/forecasting/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <loc>http://davelongman.com/tags/forecasting/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/predicting-the-future-part4/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <loc>http://davelongman.com/blog/predicting-the-future-part4/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <loc>http://davelongman.com/tags/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/predicting-the-future-part3/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <loc>http://davelongman.com/blog/predicting-the-future-part3/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/predicting-the-future-part2/</loc>
-    <lastmod>2021-07-06T09:10:33-07:00</lastmod>
+    <loc>http://davelongman.com/blog/predicting-the-future-part2/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/predicting-the-future-part1/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <loc>http://davelongman.com/blog/predicting-the-future-part1/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2021-01-01T15:46:51+01:00</lastmod>
+    <loc>http://davelongman.com/blog/</loc>
+    <lastmod>2025-09-02T13:12:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>http://davelongman.com/contact/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

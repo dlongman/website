@@ -1,6 +1,6 @@
 ---
 date: "2021-12-15"
-draft: false
+omit_header_text: true
 title: "Predicting the future: How big is this project – and when will we complete it?"
 tags: 
     - forecasting

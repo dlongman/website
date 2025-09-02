@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on D10 Technology</title>
-    <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on D10 Technology</description>
+    <title>Projects on Dave Longman</title>
+    <link>http://davelongman.com/projects/</link>
+    <description>Recent content in Projects on Dave Longman</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Mon, 01 Sep 2025 15:44:25 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Dave Longman</copyright>
+    <lastBuildDate>Tue, 02 Sep 2025 13:12:31 +0100</lastBuildDate>
+    <atom:link href="http://davelongman.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT Strategy</title>
-      <link>http://localhost:1313/projects/housing/</link>
+      <link>http://davelongman.com/projects/housing/</link>
       <pubDate>Mon, 01 Sep 2025 15:44:25 +0100</pubDate>
-      <guid>http://localhost:1313/projects/housing/</guid>
+      <guid>http://davelongman.com/projects/housing/</guid>
       <description>&lt;p&gt;Delivering a 3 year IT strategy for a social housing company.&lt;/p&gt;</description>
     </item>
   </channel>

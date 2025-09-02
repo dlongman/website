@@ -1,6 +1,6 @@
 ---
 date: "2021-07-06"
-draft: false
+omit_header_text: true
 title: "Predicting the future: how long will a story take?"
 tags: 
     - forecasting

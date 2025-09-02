@@ -1,11 +1,8 @@
 ---
-title: "Projects" # Title of your project
-date: 2025-09-01T15:43:24+01:00
-weight: 0 # Order in which to show this project on the home page
-external_link: "" # Optional external link instead of modal
-resources:
-    - src: plant.jpg
-      params:
-          weight: -100 # Optional weighting for a specific image in this project folder
-draft: false
+date : "2025-09-01"
+title: "Projects"
+description: "Here's a summary of some of the cool things I have worked on"
+menu: 
+  main:
+    weight: 2
 ---

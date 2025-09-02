@@ -1,54 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D10 Technology</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on D10 Technology</description>
+    <title>Home on Dave Longman</title>
+    <link>http://davelongman.com/</link>
+    <description>Recent content in Home on Dave Longman</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Mon, 01 Sep 2025 15:44:25 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Dave Longman</copyright>
+    <lastBuildDate>Tue, 02 Sep 2025 13:12:31 +0100</lastBuildDate>
+    <atom:link href="http://davelongman.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT Strategy</title>
-      <link>http://localhost:1313/projects/housing/</link>
+      <link>http://davelongman.com/projects/housing/</link>
       <pubDate>Mon, 01 Sep 2025 15:44:25 +0100</pubDate>
-      <guid>http://localhost:1313/projects/housing/</guid>
+      <guid>http://davelongman.com/projects/housing/</guid>
       <description>&lt;p&gt;Delivering a 3 year IT strategy for a social housing company.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Predicting the future: How much work is in our backlog?</title>
-      <link>http://localhost:1313/blog/predicting-the-future-part4/</link>
+      <link>http://davelongman.com/blog/predicting-the-future-part4/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/predicting-the-future-part4/</guid>
+      <guid>http://davelongman.com/blog/predicting-the-future-part4/</guid>
       <description>&lt;p&gt;Welcome to the final instalment of our Predicting the Future series. In previous articles, we’ve discussed the basics of estimating and forecasting and covered some techniques to predict how long new work may take using historical data. In this article, I’m going to outline evidence-based forecasting, an approach that helps predict how much work is contained within an entire product backlog. (Warning: there is some maths involved once again, but it’s really just averages and counting.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Predicting the future: How big is this project – and when will we complete it?</title>
-      <link>http://localhost:1313/blog/predicting-the-future-part3/</link>
+      <link>http://davelongman.com/blog/predicting-the-future-part3/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/predicting-the-future-part3/</guid>
-      <description>&lt;p&gt;Welcome to the third in our four-part series on estimating and forecasting. In this instalment, we’ll be looking at ways to forecast how long a project, feature, or group of stories might take using historical data and some simple mathematics. In the last article, &lt;a href=&#34;http://localhost:1313/blog/predicting-the-future-part2&#34;&gt;we used cycle time to forecast&lt;/a&gt; how long a single story is likely to take the team. While this is a useful exercise and can be helpful for product owners when they’re reviewing the backlog, the more common question is: “Will we be able to complete this group of stories by this date?”. Or, more specifically, something like: “Can we complete the payment gateway upgrade before the holiday season?”. And that’s what we’re to attempt to answer in this article.&lt;/p&gt;</description>
+      <guid>http://davelongman.com/blog/predicting-the-future-part3/</guid>
+      <description>&lt;p&gt;Welcome to the third in our four-part series on estimating and forecasting. In this instalment, we’ll be looking at ways to forecast how long a project, feature, or group of stories might take using historical data and some simple mathematics. In the last article, &lt;a href=&#34;http://davelongman.com/blog/predicting-the-future-part2/&#34;&gt;we used cycle time to forecast&lt;/a&gt; how long a single story is likely to take the team. While this is a useful exercise and can be helpful for product owners when they’re reviewing the backlog, the more common question is: “Will we be able to complete this group of stories by this date?”. Or, more specifically, something like: “Can we complete the payment gateway upgrade before the holiday season?”. And that’s what we’re to attempt to answer in this article.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Predicting the future: how long will a story take?</title>
-      <link>http://localhost:1313/blog/predicting-the-future-part2/</link>
+      <link>http://davelongman.com/blog/predicting-the-future-part2/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/predicting-the-future-part2/</guid>
+      <guid>http://davelongman.com/blog/predicting-the-future-part2/</guid>
       <description>&lt;p&gt;Understanding how long a single story is likely to take is important when a team is planning work and valuable for product owners when they’re maintaining the product backlog and forming high-level release plans. But what’s the best approach to forming an estimate?&lt;/p&gt;&#xA;&lt;p&gt;A lot of teams focus primarily on velocity when planning. They look at the average number of points they complete within an iteration and use this to indicate how many they’re likely to finish in the next one. This is a good approach if you need a quick estimate for how much work to include in an iteration, but it relies on all work having its own story point estimate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Predicting the future: estimates, forecasts, and the value of knowing what’s coming next</title>
-      <link>http://localhost:1313/blog/predicting-the-future-part1/</link>
+      <link>http://davelongman.com/blog/predicting-the-future-part1/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/predicting-the-future-part1/</guid>
+      <guid>http://davelongman.com/blog/predicting-the-future-part1/</guid>
       <description>&lt;p&gt;After 10 years of living in our house, my wife and I started thinking seriously about building an extension. Soon, we were immersed in the world of construction – a space neither of us are particularly knowledgeable about.&lt;/p&gt;&#xA;&lt;p&gt;When you don’t know the industry – or what the work entails – you’re never sure if your ideas are workable, super-complicated, or totally out of your budget. Would an extension cost us £20k? Or £100k? We may like the look of local slate flagstones, but they’re £10k; is there an alternative that looks similar but costs, say, £2k instead?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>D10 Technology</title>
-      <link>http://localhost:1313/home/</link>
+      <title>Contact</title>
+      <link>http://davelongman.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/</guid>
-      <description>&lt;p&gt;Enhancing technology across the UK.&lt;/p&gt;</description>
+      <guid>http://davelongman.com/contact/</guid>
+      <description>&lt;p&gt;&amp;#x1f9d1;&amp;zwj;&amp;#x1f4bc; Dave Longman&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f4e7; &lt;a href=&#34;mailto:dave@d10technology.co.uk&#34;&gt;dave@d10technology.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f4f1; 07970 158 237&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

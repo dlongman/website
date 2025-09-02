@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on D10 Technology</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on D10 Technology</description>
+    <title>Tags on Dave Longman</title>
+    <link>http://davelongman.com/tags/</link>
+    <description>Recent content in Tags on Dave Longman</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Dave Longman</copyright>
+    <lastBuildDate>Tue, 02 Sep 2025 13:12:31 +0100</lastBuildDate>
+    <atom:link href="http://davelongman.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimates</title>
-      <link>http://localhost:1313/tags/estimates/</link>
+      <link>http://davelongman.com/tags/estimates/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/estimates/</guid>
+      <guid>http://davelongman.com/tags/estimates/</guid>
       <description></description>
     </item>
     <item>
       <title>Forecasting</title>
-      <link>http://localhost:1313/tags/forecasting/</link>
+      <link>http://davelongman.com/tags/forecasting/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/forecasting/</guid>
+      <guid>http://davelongman.com/tags/forecasting/</guid>
       <description></description>
     </item>
   </channel>

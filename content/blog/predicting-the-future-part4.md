@@ -1,6 +1,6 @@
 ---
 date: "2022-04-10"
-draft: false
+omit_header_text: true
 title: "Predicting the future: How much work is in our backlog?"
 tags: 
     - forecasting
