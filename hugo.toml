@@ -1,0 +1,10 @@
+baseURL = "http://d10technology.co.uk/"
+languageCode = "en-GB"
+title = "D10 Technology"
+theme = "ananke"
+
+[taxonomies]
+    tags = "tags"
+
+[markup.goldmark.renderer]
+    unsafe = true
