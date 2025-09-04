@@ -2,7 +2,7 @@
 # Hugo
 public/
 /resources/_gen/
-hugo_build.lock
+.hugo_build.lock
 /resources/_gen/
 
 # General transient files
