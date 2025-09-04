@@ -2,6 +2,7 @@
 date: "2021-06-18"
 omit_header_text: true
 title: "Predicting the future: estimates, forecasts, and the value of knowing what’s coming next"
+featured_image:  ""
 tags: 
     - forecasting
     - estimates
