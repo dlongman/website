@@ -1,3 +1,16 @@
-**/.DS_Store
-/.DS_Store
-/public/
+
+# Hugo
+public/
+/resources/_gen/
+hugo_build.lock
+/resources/_gen/
+
+# General transient files
+node_modules
+package-lock.json
+bower_components
+dist
+tmp
+
+# Mac File System File...utterly useless to anyone but me.
+.DS_Store
