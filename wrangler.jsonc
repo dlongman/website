@@ -9,5 +9,11 @@
     "assets": {
         "directory": "./public",
         "not_found_handling": "404-page"
-    }
+    },
+    "routes": [
+        {
+        "pattern": "blog.davelongman.com",
+        "custom_domain": true
+        }
+    ]
 }
