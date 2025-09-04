@@ -22,7 +22,7 @@ Working from home can allow people to work smarter and to achieve more with thei
 These factors can improve staff morale and lead to better staff retention and loyalty.
 
 There is certainly evidence building to prove the case that home working can enhance productivity.
-A survey by Airtasker in the USA found that remote employees work more. On average, remote employees worked 1.4 more days every month, or almost 17 more days every year, than those who worked in an office. Meanwhile, research by BT has indicated that home working can boost productivity by 15%.
+A [survey](https://www.airtasker.com/blog/the-benefits-of-working-from-home/) by Airtasker in the USA found that remote employees work more. On average, remote employees worked 1.4 more days every month, or almost 17 more days every year, than those who worked in an office. Meanwhile, [research](https://www.researchgate.net/publication/256051553_Does_Working_from_Home_Work_Evidence_from_a_Chinese_Experiment) from the Quarterly Journal of Economics shows that home working can boost productivity by 13%.
 
 On the other hand, working in an office can have important benefits too. The value of face to face communications and a sense of personal connection is enormous and this can be an important contributor to staff motivation. Simple things such as shared whiteboards can be surprisingly helpful. There is also the ‘buzz’ of the office, which is impossible to replicate in a virtual environment. Even random chats at the watercooler can spark ideas and identify new opportunities or solutions.
 
