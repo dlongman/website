@@ -6,4 +6,4 @@ cascade:
     featured_image:  "images/cover.jpg"
 ---
 
-Welcome to my work in progress blog!
+Welcome to my *work in progress* space on the internet!

@@ -12,8 +12,8 @@
     },
     "routes": [
         {
-        "pattern": "blog.davelongman.com",
-        "custom_domain": true
+            "pattern": "www.davelongman.com",
+            "custom_domain": true
         }
     ]
 }

@@ -6,3 +6,5 @@ menu:
   main:
     weight: 2
 ---
+
+Content is on it's way!
