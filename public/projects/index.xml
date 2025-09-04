@@ -2,19 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Dave Longman</title>
-    <link>http://davelongman.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Dave Longman</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Dave Longman</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 13:12:31 +0100</lastBuildDate>
-    <atom:link href="http://davelongman.com/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IT Strategy</title>
-      <link>http://davelongman.com/projects/housing/</link>
-      <pubDate>Mon, 01 Sep 2025 15:44:25 +0100</pubDate>
-      <guid>http://davelongman.com/projects/housing/</guid>
-      <description>&lt;p&gt;Delivering a 3 year IT strategy for a social housing company.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
