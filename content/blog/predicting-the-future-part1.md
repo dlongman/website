@@ -4,8 +4,8 @@ omit_header_text: true
 title: "Predicting the future: estimates, forecasts, and the value of knowing what’s coming next"
 featured_image:  ""
 tags: 
-    - forecasting
-    - estimates
+    - Forecasting
+    - Estimation
 ---
 
 After 10 years of living in our house, my wife and I started thinking seriously about building an extension. Soon, we were immersed in the world of construction – a space neither of us are particularly knowledgeable about.

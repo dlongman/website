@@ -4,8 +4,8 @@ omit_header_text: true
 title: "Predicting the future: How much work is in our backlog?"
 featured_image:  ""
 tags: 
-    - forecasting
-    - estimates
+    - Forecasting
+    - Estimation
 ---
 
 Welcome to the final instalment of our Predicting the Future series. In previous articles, we’ve discussed the basics of estimating and forecasting and covered some techniques to predict how long new work may take using historical data. In this article, I’m going to outline evidence-based forecasting, an approach that helps predict how much work is contained within an entire product backlog. (Warning: there is some maths involved once again, but it’s really just averages and counting.)

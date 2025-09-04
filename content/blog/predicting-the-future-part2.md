@@ -4,8 +4,8 @@ omit_header_text: true
 title: "Predicting the future: how long will a story take?"
 featured_image:  ""
 tags: 
-    - forecasting
-    - estimates
+    - Forecasting
+    - Estimation
 ---
 
 Understanding how long a single story is likely to take is important when a team is planning work and valuable for product owners when they’re maintaining the product backlog and forming high-level release plans. But what’s the best approach to forming an estimate?

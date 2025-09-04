@@ -5,8 +5,8 @@ omit_header_text: true
 title: "Moving beyond folders: Managing document metadata in SharePoint"
 featured_image:  ""
 tags: 
-    - sharepoint
-    - microsoft
+    - SharePoint
+    - Microsoft
 ---
 
 I have recently completed some work for a local charity supporting their rollout of SharePoint to replace an old fileshare. This work reminded me how confusing SharePoint can be for new users, especially when it comes to using it to replace a traditional file server. Out of the box, SharePoint has some fantastic benefits over a fle share, such as automatic file versioning, soft deletion support with the multi-stage recycle bin and the ability to easily access and share documents without needed a VPN. But if you just continue to use SharePoint in the same way you did with a fileshare you are missing out on loads of additional capability. 

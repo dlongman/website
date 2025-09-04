@@ -5,8 +5,8 @@ omit_header_text: true
 title: "Moving beyond folders: Keeping document metadata consistent in SharePoint"
 featured_image:  ""
 tags: 
-    - sharepoint
-    - microsoft
+    - SharePoint
+    - Microsoft
 ---
 
 This is the second of a three part series explaining how you can make use of more advanced features to improve the way you store and manage documents in SharePoint. You can read the first article [here](./moving-beyond-folders-part1.md).

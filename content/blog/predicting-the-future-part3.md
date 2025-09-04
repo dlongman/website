@@ -4,8 +4,8 @@ omit_header_text: true
 title: "Predicting the future: How big is this project – and when will we complete it?"
 featured_image:  ""
 tags: 
-    - forecasting
-    - estimates
+    - Forecasting
+    - Estimation
 ---
 
 Welcome to the third in our four-part series on estimating and forecasting. In this instalment, we’ll be looking at ways to forecast how long a project, feature, or group of stories might take using historical data and some simple mathematics. In the last article, [we used cycle time to forecast](/blog/predicting-the-future-part2) how long a single story is likely to take the team. While this is a useful exercise and can be helpful for product owners when they’re reviewing the backlog, the more common question is: “Will we be able to complete this group of stories by this date?”. Or, more specifically, something like: “Can we complete the payment gateway upgrade before the holiday season?”. And that’s what we’re to attempt to answer in this article.
